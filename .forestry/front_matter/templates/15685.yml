@@ -5,6 +5,7 @@ is_partial: false
 fields:
 - type: text
 pages:
+- content/posts/test.md
 - content/posts/dd.md
 - content/posts/union-find-알고리즘.md
 - content/posts/백준-파티-1238번-문제.md
